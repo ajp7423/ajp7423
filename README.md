@@ -19,3 +19,9 @@ Interactive Hangman game that visually displays the man, tracks guessed letters,
 **[Banking Program](https://github.com/ajp7423/Banking-Program)**  
 *Python | File Handling | Basic Logic*  
 Simple banking system supporting deposits, withdrawals, and transfers with transaction logging. Demonstrates file I/O and control flow logic. 
+
+### Web Projects
+
+**🏀 [Boxscore – Basketball Stat Tracker (In Progress)](https://github.com/ajp7423/Boxscore)**  
+*HTML, CSS, PHP, JavaScript, MySQL*  
+Designing a mobile app and companion website for casual basketball players to track stats, view summaries, and share results. Features responsive layouts, user feedback collection, and backend authentication in progress.
