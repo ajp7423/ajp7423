@@ -1,5 +1,10 @@
-## Hi there 👋
-
+Here are some of my favorite personal projects:
+- Cops and Robbers Game(https://github.com/ajp7423/Video-Game-Final-Project) - A 2D, Pacman-esque game with a city maze, AI opponents, sprites, power-ups, collisions, different levels, and a boss fight.
+- Space Shooter Game(https://github.com/ajp7423/Space-Game) - A 2D Java space shooter with sprites, collision, sepcial abilities, and sound effects.
+- 3on3 Shutdown Switch(https://github.com/ajp7423/3on3-Shut-Down) - Searches for the game 3on3 Freestyle: Rebound process in task manager and shuts it down after a specified amount of time. Records instances in a log file.
+- Hangman(https://github.com/ajp7423/Hangman) - Hangman game that displays the man, blank spaces, and keeps track of letters.
+- Banking Program(https://github.com/ajp7423/Banking-Program) - Basic banking program with deposits, withdrawals, and transfers and logs.
+  
 <!--
 **ajp7423/ajp7423** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
