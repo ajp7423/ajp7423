@@ -1,7 +1,6 @@
 Here are some of my favorite personal projects:
 
 **Cops and Robbers Game**: https://github.com/ajp7423/Video-Game-Final-Project
-
 Java-based 2D Pacman-style game set in a city maze with AI opponents, power-ups, multiple levels, collisions, and a boss fight. Highlights include sprite animations, dynamic AI behavior, and interactive gameplay. Was a team final project.
 
 **Space Shooter Game**: https://github.com/ajp7423/Space-Game
