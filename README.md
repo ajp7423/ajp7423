@@ -27,4 +27,4 @@ Simple banking system supporting deposits, withdrawals, and transfers with trans
 *HTML, CSS, PHP, JavaScript, MySQL*  
 Link to actual website - https://ajp7423.github.io/boxscore-website/
 
-Designing a mobile app and companion website for casual basketball players to track stats, view summaries, and share results. Features responsive layouts, user feedback collection, and backend authentication in progress.
+Designing a mobile app and companion website for casual basketball players to track their stats. Features responsive layouts, user feedback collection, and backend authentication in progress.
