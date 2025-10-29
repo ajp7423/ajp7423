@@ -20,6 +20,7 @@ Interactive Hangman game that visually displays the man, tracks guessed letters,
 *Python | File Handling | Basic Logic*  
 Simple banking system supporting deposits, withdrawals, and transfers with transaction logging. Demonstrates file I/O and control flow logic. 
 
+
 ### Web Projects
 
 **🏀 [Boxscore – Basketball Stat Tracker App Companion Website (In Progress)](https://github.com/ajp7423/boxscore-website)**  
