@@ -23,5 +23,6 @@ Simple banking system supporting deposits, withdrawals, and transfers with trans
 ### Web Projects
 
 **🏀 [Boxscore – Basketball Stat Tracker (In Progress)](https://ajp7423.github.io/boxscore-website/)**  
+https://github.com/ajp7423/boxscore-website
 *HTML, CSS, PHP, JavaScript, MySQL*  
 Designing a mobile app and companion website for casual basketball players to track stats, view summaries, and share results. Features responsive layouts, user feedback collection, and backend authentication in progress.
