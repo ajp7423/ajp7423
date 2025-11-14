@@ -21,9 +21,11 @@ Interactive Hangman game that visually displays the man, tracks guessed letters,
 Simple banking system supporting deposits, withdrawals, and transfers with transaction logging. Demonstrates file I/O and control flow logic. 
 
 
-### Web Projects
+### Web and App Development
 
-**🏀 [Boxscore – Basketball Stat Tracker App Companion Website (In Progress)](https://github.com/ajp7423/boxscore-website)**  
+**🏀 [Boxscore – Basketball Stat Tracker App and Companion Website (In Progress)]
+(https://github.com/ajp7423/boxscore-website)** - website repository
+(https://github.com/ajp7423/boxscore-app)** - app repository
 *HTML, CSS, PHP, JavaScript(React Native), MySQL*  
 Link to actual website - https://ajp7423.github.io/boxscore-website/
 
