@@ -25,8 +25,8 @@ Simple banking system supporting deposits, withdrawals, and transfers with trans
 
 **🏀 [Boxscore – Basketball Stat Tracker App and Companion Website (In Progress)]**
 
-**[https://github.com/ajp7423/boxscore-website](Website repository)**
-**[https://github.com/ajp7423/boxscore-app]**(App repository)
+**[Website repository](https://github.com/ajp7423/boxscore-website)**
+**[App repository](https://github.com/ajp7423/boxscore-app)**
 
 *HTML, CSS, PHP, JavaScript(React Native), MySQL*  
 Link to actual website - https://ajp7423.github.io/boxscore-website/
