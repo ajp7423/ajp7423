@@ -12,10 +12,6 @@ Fast-paced space shooter featuring collision detection, special abilities, anima
 *Python | Automation | File Logging*  
 Automatically detects and shuts down the *3on3 Freestyle: Rebound* process after a set time, recording each instance in a log file. Demonstrates process control and automation.  
 
-**[Hangman](https://github.com/ajp7423/Hangman)**  
-*Python | Game Logic | User Interaction*  
-Interactive Hangman game that visually displays the man, tracks guessed letters, and updates the game state in real time. Focused on logic handling.  
-
 **[Banking Program](https://github.com/ajp7423/Banking-Program)**  
 *Python | File Handling | Basic Logic*  
 Simple banking system supporting deposits, withdrawals, and transfers with transaction logging. Demonstrates file I/O and control flow logic. 
