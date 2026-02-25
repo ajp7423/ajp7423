@@ -18,13 +18,11 @@ Simple banking system supporting deposits, withdrawals, and transfers with trans
 
 
 ### Websites and Applications
-[**aidanpustay.com**](https://ajp7423.github.io/aidanpustay/index.html) <br>
-[**Repository**](https://github.com/ajp7423/aidanpustay) <br>
+[**aidanpustay.com**](https://ajp7423.github.io/aidanpustay/index.html) | [**Repository**](https://github.com/ajp7423/aidanpustay) <br>
 *HTML | CSS* <br>
-A personal portfolio website showcasing my academic foundation in Information Sciences & Technology along with applied development projects and systems-focused coursework.
+A personal portfolio website showcasing my academic foundation in Information Sciences & Technology along with applied development projects and systems-focused coursework. <br>
 
-**🏀Boxscore – Basketball Stat Tracker App and Companion Website (In Progress)**
-
+**🏀Boxscore – Basketball Stat Tracker App and Companion Website (In Progress)** <br>
 **[Website repository](https://github.com/ajp7423/boxscore-website)** | **[App repository](https://github.com/ajp7423/boxscore-app)** <br>
 *HTML | CSS | PHP | JavaScript(React Native)*  <br>
 Link to actual website - https://ajp7423.github.io/boxscore-website/ <br>
