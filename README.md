@@ -18,8 +18,8 @@ Simple banking system supporting deposits, withdrawals, and transfers with trans
 
 
 ### Websites and Applications
-[**Personal Portfolio Website**](https://ajp7423.github.io/aidanpustay/index.html) <br>
-[Repository](https://github.com/ajp7423/aidanpustay) <br>
+[**aidanpustay.com**](https://ajp7423.github.io/aidanpustay/index.html) <br>
+[**Repository**](https://github.com/ajp7423/aidanpustay) <br>
 *HTML | CSS* <br>
 A personal portfolio website showcasing my academic foundation in Information Sciences & Technology along with applied development projects and systems-focused coursework.
 
