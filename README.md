@@ -17,9 +17,13 @@ Automatically detects and shuts down the *3on3 Freestyle: Rebound* process after
 Simple banking system supporting deposits, withdrawals, and transfers with transaction logging. Demonstrates file I/O and control flow logic. 
 
 
-### Web and App Development
+### Websites and Applications
+[**Personal Portfolio Website**](https://ajp7423.github.io/aidanpustay/index.html)
+[Repository](https://github.com/ajp7423/aidanpustay)
+*HTML | CSS*
+A personal portfolio website showcasing my academic foundation in Information Sciences & Technology along with applied development projects and systems-focused coursework.
 
-**🏀 [Boxscore – Basketball Stat Tracker App and Companion Website (In Progress)]**
+**🏀Boxscore – Basketball Stat Tracker App and Companion Website (In Progress)**
 
 **[Website repository](https://github.com/ajp7423/boxscore-website)** | **[App repository](https://github.com/ajp7423/boxscore-app)**
 
