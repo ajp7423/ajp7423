@@ -12,11 +12,6 @@ Fast-paced space shooter featuring collision detection, special abilities, anima
 *Python | Automation | File Logging*  
 Automatically detects and shuts down the *3on3 Freestyle: Rebound* process after a set time, recording each instance in a log file. Demonstrates process control and automation.  
 
-**[Banking Program](https://github.com/ajp7423/Banking-Program)**  
-*Python | File Handling | Basic Logic*  
-Simple banking system supporting deposits, withdrawals, and transfers with transaction logging. Demonstrates file I/O and control flow logic. 
-
-
 ### Websites and Applications
 [**aidanpustay.com**](https://ajp7423.github.io/aidanpustay/index.html) | [**Repository**](https://github.com/ajp7423/aidanpustay) <br>
 *HTML | CSS* <br>
