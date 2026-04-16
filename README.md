@@ -25,6 +25,5 @@ A personal portfolio website showcasing my academic foundation in Information Sc
 **🏀Boxscore – Basketball Stat Tracker App and Companion Website (In Progress)** <br>
 **[Website repository](https://github.com/ajp7423/boxscore-website)** | **[App repository](https://github.com/ajp7423/boxscore-app)** <br>
 *HTML | CSS | PHP | JavaScript(React Native)*  <br>
-Link to actual website - https://ajp7423.github.io/boxscore-website/ <br>
-
+Link to actual website - https://ajp7423.github.io/boxscore-website/
 Designing a mobile app and companion website for casual basketball players to track their stats. Features responsive layouts, user feedback collection, and backend authentication in progress.
