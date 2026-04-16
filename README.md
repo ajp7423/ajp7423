@@ -18,12 +18,14 @@ Created a process automation tool that detects and terminates a target applicati
 *Python | File Handling*  
 Built a console-based banking system supporting deposits, withdrawals, transfers, and transaction logging. Focused on data persistence and input validation using file I/O.
 
-[**aidanpustay.com**](https://ajp7423.github.io/aidanpustay/index.html) | [**Repository**](https://github.com/ajp7423/aidanpustay) <br>
+[**Personal Portfolio Website**](https://ajp7423.github.io/aidanpustay/index.html)
+[**Repository**](https://github.com/ajp7423/aidanpustay)
 *HTML | CSS | Web Development* <br>
 Designed and developed a responsive personal website to showcase projects and academic background in Information Sciences & Technology.
 
-**🏀Boxscore – Basketball Stat Tracker App and Companion Website (In Progress)** <br>
-**[Website repository](https://github.com/ajp7423/boxscore-website)** | **[App repository](https://github.com/ajp7423/boxscore-app)** <br>
+**🏀Boxscore – Basketball Stat Tracker App and Companion Website (In Progress)**
+**[Website repository](https://github.com/ajp7423/boxscore-website)**
+**[App repository](https://github.com/ajp7423/boxscore-app)**
 *React Native | Full-Stack Development*
 Link to actual website - https://ajp7423.github.io/boxscore-website/
 Designing a mobile app and companion website for basketball stat tracking. Includes responsive UI design and user feedback features aimed at improving usability and engagement.
