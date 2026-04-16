@@ -1,6 +1,7 @@
-# Portfolio – Aidan Pustay
+# Portfolio – Aidan Pustay 
 
 Selected projects in software development, game design, automation, and full-stack development. Focused on building interactive systems and applying system-level problem-solving using Java, Python, and web technologies, with an emphasis on usability and real-world application design.
+
 ---
 
 ## Cops and Robbers Game  
