@@ -1,29 +1,29 @@
-### Here are some of my favorite personal projects:
+### Portfolio – Aidan Pustay
+
+Here are some of my favorite projects demonstrating experience in software development, game design, automation, and full-stack development. My work focuses on building interactive systems, improving user experience, and applying technical and user-centered principles to real-world-style problems.:
 
 **[Cops and Robbers Game](https://github.com/ajp7423/Video-Game-Final-Project)**  
-*Java | Game Development | Team Project*  
-2D Pacman-style city maze game with AI opponents, power-ups, multiple levels, collisions, and a boss fight. Features sprite animations, AI behavior, and interactive gameplay.  
+*Java | Game Development | Game AI (Behavior Logic) *  
+Built a 2D maze-based game featuring AI-controlled enemy movement using rule-based behavior patterns (chasing, random movement, and scatter modes). Implemented collision systems, multiple levels, and a boss fight to create structured gameplay progression.
 
 **[Space Shooter Game](https://github.com/ajp7423/Space-Game)**  
 *Java | 2D Shooter | Sound & Animation*  
-Fast-paced space shooter featuring collision detection, special abilities, animated sprites, and sound effects.  
+Developed a real-time arcade-style shooter with collision detection, projectile systems, and animated sprites. Integrated sound effects and responsive controls to enhance gameplay feedback and user experience.
 
 **[3on3 Shutdown Switch](https://github.com/ajp7423/3on3-Shut-Down)**  
-*Python | Automation | File Logging*  
-Automatically detects and shuts down the *3on3 Freestyle: Rebound* process after a set time, recording each instance in a log file. Demonstrates process control and automation.  
+*Python | Automation*  
+Created a process automation tool that detects and terminates a target application after a set time. Includes logging to track execution history and demonstrate system-level automation.
 
 **[Banking Program](https://github.com/ajp7423/Banking-Program)**  
-*Python | File Handling | Basic Logic*  
-Simple banking system supporting deposits, withdrawals, and transfers with transaction logging. Demonstrates file I/O and control flow logic. 
+*Python | File Handling*  
+Built a console-based banking system supporting deposits, withdrawals, transfers, and transaction logging. Focused on data persistence and input validation using file I/O.
 
-
-### Websites and Applications
 [**aidanpustay.com**](https://ajp7423.github.io/aidanpustay/index.html) | [**Repository**](https://github.com/ajp7423/aidanpustay) <br>
-*HTML | CSS* <br>
-A personal portfolio website showcasing my academic foundation in Information Sciences & Technology along with applied development projects and systems-focused coursework. <br>
+*HTML | CSS | Web Development* <br>
+Designed and developed a responsive personal website to showcase projects and academic background in Information Sciences & Technology.
 
 **🏀Boxscore – Basketball Stat Tracker App and Companion Website (In Progress)** <br>
 **[Website repository](https://github.com/ajp7423/boxscore-website)** | **[App repository](https://github.com/ajp7423/boxscore-app)** <br>
-*HTML | CSS | PHP | JavaScript(React Native)*  <br>
+*React Native | Full-Stack Development*
 Link to actual website - https://ajp7423.github.io/boxscore-website/
-Designing a mobile app and companion website for casual basketball players to track their stats. Features responsive layouts, user feedback collection, and backend authentication in progress.
+Designing a mobile app and companion website for basketball stat tracking. Includes responsive UI design and user feedback features aimed at improving usability and engagement.
