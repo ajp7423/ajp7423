@@ -1,6 +1,6 @@
 # Portfolio – Aidan Pustay 
 
-Selected projects in software development, game design, automation, and full-stack development. Focused on building interactive systems and applying system-level problem-solving using Java, Python, and web technologies, with an emphasis on usability and real-world application design.
+Projects in software development, game design, automation, and full-stack development. Focused on building interactive systems and applying system-level problem-solving using Java, Python, and web technologies, with an emphasis on usability and real-world application design.
 
 ---
 
@@ -24,7 +24,7 @@ Developed a real-time arcade-style shooter with collision detection, projectile 
 **Link:** https://github.com/ajp7423/3on3-Shut-Down  
 *Python | Automation*  
 
-Created a process automation tool that detects and terminates a target application after a set time interval. Includes logging functionality to track execution history and demonstrate system-level automation.
+Created a process automation tool that detects and terminates a target application after a set time interval. Includes logging to track execution history and demonstrate system-level automation.
 
 ---
 
