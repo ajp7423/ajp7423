@@ -13,6 +13,17 @@ Designing a mobile application and companion website for basketball stat trackin
 
 ---
 
+## AI-Powered Sports League Organizer (IBM watsonx)  
+*AI Systems | Agentic AI | Workflow Automation*  
+https://little-league-manager-ibm.streamlit.app/
+Developed an LLM-powered system to support volunteer sports league organizers with scheduling, conflict resolution, and communication. Built using IBM watsonx Orchestrate to automate coordination across teams, fields, and referees.
+
+- Generated league schedules based on team, field, and referee availability  
+- Implemented conflict detection for field overbooking, duplicate matchups, and excessive games per week  
+- Designed constraint-based filtering (e.g., matchup limits, weekly game limits) with AI-driven resolution suggestions  
+- Built an interactive dashboard (Figma) to display schedules, conflicts, and AI recommendations with human-in-the-loop approval  
+- Enabled natural language interaction through a conversational AI interface for querying league data and generating insights  
+
 ## Cops and Robbers Game  
 **Link:** https://github.com/ajp7423/Video-Game-Final-Project  
 *Java | Game Development | Game AI (Behavior Logic)*  
