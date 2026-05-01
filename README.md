@@ -16,7 +16,7 @@ Designing a mobile application and companion website for basketball stat trackin
 ## AI-Powered Sports League Organizer (IBM watsonx)  
 *AI Systems | Agentic AI | Workflow Automation*  
 **App link:** https://little-league-manager-ibm.streamlit.app/ <br>
-**Repository:** https://github.com/ajp7423/little-league-manager-ibm
+**Repository:** https://github.com/ajp7423/little-league-manager-ibm <br>
 Developed an LLM-powered system to support volunteer sports league organizers with scheduling, conflict resolution, and communication. Built using IBM watsonx Orchestrate to automate coordination across teams, fields, and referees.
 
 - Generated league schedules based on team, field, and referee availability  
