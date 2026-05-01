@@ -6,7 +6,6 @@ Projects in software development, game design, automation, and full-stack develo
 
 ## Boxscore – Basketball Stat Tracking Platform (In Progress)  
 **App Repository:** https://github.com/ajp7423/boxscore-app 
-
 **Website Repository:** https://github.com/ajp7423/boxscore-website  
 *React Native | Full-Stack Development*  
 
