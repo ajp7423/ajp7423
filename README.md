@@ -4,6 +4,15 @@ Projects in software development, game design, automation, and full-stack develo
 
 ---
 
+## Boxscore – Basketball Stat Tracking Platform (In Progress)  
+**Website Repository:** https://github.com/ajp7423/boxscore-website  
+**App Repository:** https://github.com/ajp7423/boxscore-app  
+*React Native | Full-Stack Development*  
+
+Designing a mobile application and companion website for basketball stat tracking. Includes responsive UI design and user feedback features, with ongoing development of authentication and data tracking.
+
+---
+
 ## Cops and Robbers Game  
 **Link:** https://github.com/ajp7423/Video-Game-Final-Project  
 *Java | Game Development | Game AI (Behavior Logic)*  
@@ -42,12 +51,3 @@ Built a console-based banking system supporting deposits, withdrawals, transfers
 *HTML | CSS | Web Development*  
 
 Designed and developed a responsive personal website to showcase projects and academic background in Information Sciences & Technology.
-
----
-
-## Boxscore – Basketball Stat Tracking Platform (In Progress)  
-**Website Repository:** https://github.com/ajp7423/boxscore-website  
-**App Repository:** https://github.com/ajp7423/boxscore-app  
-*React Native | Full-Stack Development*  
-
-Designing a cross-platform mobile application and companion website for basketball stat tracking. Includes responsive UI design and user feedback features, with ongoing development of authentication and data tracking.
