@@ -25,6 +25,8 @@ Developed an LLM-powered system to support volunteer sports league organizers wi
 - Implemented an interactive dashboard to display schedules, conflicts, and AI recommendations with human-in-the-loop approval  
 - Enabled natural language interaction through a conversational AI interface for querying league data and generating insights  
 
+---
+
 ## Cops and Robbers Game  
 **Link:** https://github.com/ajp7423/Video-Game-Final-Project  
 *Java | Game Development | Game AI (Behavior Logic)*  
