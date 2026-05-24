@@ -2,16 +2,6 @@
 
 Projects in software development, game design, automation, and full-stack development. Focused on building interactive systems and applying system-level problem-solving using Java, Python, and web technologies, with an emphasis on usability and real-world application design.
 
----
-
-## Boxscore – Basketball Stat Tracking Platform (In Progress)  
-**App Repository:** https://github.com/ajp7423/boxscore-app <br>
-**Website Repository:** https://github.com/ajp7423/boxscore-website  
-*React Native | Full-Stack Development*  
-
-Designing a mobile application and companion website for basketball stat tracking. Includes responsive UI design and user feedback features, with ongoing development of authentication and data tracking.
-
----
 
 ## AI-Powered Sports League Organizer (IBM watsonx)  
 *AI Systems | Agentic AI | Workflow Automation*  
@@ -24,6 +14,15 @@ Developed an LLM-powered system to support volunteer sports league organizers wi
 - Designed constraint-based filtering (e.g., matchup limits, weekly game limits) with AI-driven resolution suggestions  
 - Implemented an interactive dashboard to display schedules, conflicts, and AI recommendations with human-in-the-loop approval  
 - Enabled natural language interaction through a conversational AI interface for querying league data and generating insights  
+
+---
+
+## Boxscore – Basketball Stat Tracking Platform (In Progress)  
+**App Repository:** https://github.com/ajp7423/boxscore-app <br>
+**Website Repository:** https://github.com/ajp7423/boxscore-website  
+*React Native | Full-Stack Development*  
+
+Designing a mobile application and companion website for basketball stat tracking. Includes responsive UI design and user feedback features, with ongoing development of authentication and data tracking.
 
 ---
 
